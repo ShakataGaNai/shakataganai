@@ -1,4 +1,6 @@
-### HELLO? IS THIS THING ON? 🦦
+### 🦦 This new profile thing is otterly rediculous 🦦
+
+Fantastic, I know, please [holt](https://en.wikipedia.org/wiki/Otter#Terminology) your applause.
 
 <!--
 **ShakataGaNai/shakataganai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
