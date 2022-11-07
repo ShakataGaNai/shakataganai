@@ -2,8 +2,6 @@
 
 Fantastic, I know, please [holt](https://en.wikipedia.org/wiki/Otter#Terminology) your applause.
 
-<a rel="me" href="https://infosec.exchange/@ShakataGaNai">🍗</a>
-
 <!--
 **ShakataGaNai/shakataganai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
